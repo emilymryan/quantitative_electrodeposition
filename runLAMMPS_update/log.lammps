@@ -1,0 +1,6 @@
+LAMMPS (2 Apr 2025)
+# Diffusion - Migration - Potential - Nucleation - Reaction Modeling
+# Silver Electrodeposition
+
+log 		${dname}/log.lammps
+log 		/projectnb/ryanlab/epenson/LAMMPS_AG_ELECTRODEPOSITION_NUCLEATION/results/June22_TEST_/log.lammps
